@@ -35,3 +35,4 @@ while True: #-->>>> warning- once the game gets over, quickly move the cursor to
         pg.keyDown('down') ## press down when no tress are within range ( pixelsum less)
         #time.sleep(0.01)
 #print(pixelsum())
+
