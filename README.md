@@ -3,6 +3,8 @@ play the classic chrome dino bot on its own
 
 It basically continously captures the a small area (in front of the dino) in the screen and make decesion when to jump of duck according to the sum of the pixels within that area, as the pixel sum would change whenever a bush or a bird is about to hit the dino
 
+# main file- pyautogui.py
+# figure out the coordinates before from knowcoordinates.py
 
 intro to libraries used
 
