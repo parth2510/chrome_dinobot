@@ -30,4 +30,4 @@ while True:
     #print(i)
     i=i+1
     if i>5: break
-# once you get to know the initial sum of pixels, you can store that to be used in pyautogui_algo
+# once you get to know the initial sum of pixels, you can store that to be used in pyautogui_algo 
